@@ -234,7 +234,6 @@ All contributors will be recognized in:
 
 - **GitHub Issues**: For bugs and feature requests
 - **GitHub Discussions**: For questions and community chat
-- **Email**: [your-email@example.com] (for private matters)
 
 ---
 
